@@ -1,0 +1,35 @@
+.youtube-player-container {
+  padding: 20px 0;
+  display: flex;
+  justify-content: center;
+}
+
+.youtube-player {
+  max-width: 100%;
+  height: auto;
+}
+
+.header {
+  background-color: #f8f9fa;
+  padding: 20px;
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+  color: #333;
+}
+
+/* Footer Styles */
+.footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 20px 0;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
+
+.footer p {
+  margin: 0;
+  font-size: 14px;
+}

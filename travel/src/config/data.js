@@ -1,0 +1,301 @@
+export const blogList = [
+  {
+    "id": 1,
+    "title": "Exploring the Hidden Gems of Southeast Asia",
+    "category": "travel",
+    "subCategory": ["adventure", "culture", "photography"],
+    "description": "Dive into the lesser-known destinations in Southeast Asia, from untouched beaches to vibrant cultural experiences. Discover hidden gems that offer unique perspectives away from the usual tourist trails.",
+    "authorName": "Jon.In",
+    "authorAvatar": "/assets/images/author.jpg",
+    "createdAt": "August 15, 2024",
+    "cover": "/assets/images/travel-1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "A Food Lover's Guide to European Cities",
+    "category": "travel",
+    "subCategory": ["food", "culture", "urban exploration"],
+    "description": "Join us on a culinary journey through Europe's most delicious cities, exploring local cuisines, hidden eateries, and food markets that offer a true taste of each destination.",
+    "authorName": "Jon.In",
+    "authorAvatar": "/assets/images/author.jpg",
+    "createdAt": "September 01, 2024",
+    "cover": "/assets/images/travel-2.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Top 10 Road Trips in North America",
+    "category": "travel",
+    "subCategory": ["adventure", "road trip", "nature"],
+    "description": "Experience the freedom of the open road with our guide to the top 10 road trips in North America. From coastal drives to mountain escapes, these routes promise unforgettable adventures.",
+    "authorName": "Jon.In",
+    "authorAvatar": "/assets/images/author.jpg",
+    "createdAt": "July 20, 2024",
+    "cover": "/assets/images/travel-7.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Solo Travel: Tips and Destinations for First-Timers",
+    "category": "travel",
+    "subCategory": ["solo travel", "advice", "inspiration"],
+    "description": "Thinking about traveling alone? Get practical tips and explore beginner-friendly destinations that are perfect for solo adventurers looking to explore the world on their own terms.",
+    "authorName": "Jon.In",
+    "authorAvatar": "/assets/images/author.jpg",
+    "createdAt": "October 05, 2024",
+    "cover": "/assets/images/travel-9.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Eco-Friendly Travel: Sustainable Destinations and Practices",
+    "category": "travel",
+    "subCategory": ["sustainability", "eco-friendly", "nature"],
+    "description": "Learn how to travel more sustainably with our guide to eco-friendly destinations and practices. Discover how to minimize your environmental impact while enjoying the beauty of the planet.",
+    "authorName": "Jon.In",
+    "authorAvatar": "/assets/images/author.jpg",
+    "createdAt": "November 12, 2024",
+    "cover": "/assets/images/travel-13.jpg"
+  },
+  {
+    "id": 6,
+    "title": "A Weekend Getaway Guide: Short Trips Near Major Cities",
+    "category": "travel",
+    "subCategory": ["weekend getaway", "urban escape", "travel tips"],
+    "description": "Need a quick escape from city life? Check out our weekend getaway guide for short trips near major cities, perfect for recharging without the long travel times.",
+    "authorName": "Jon.In",
+    "authorAvatar": "/assets/images/author.jpg",
+    "createdAt": "August 28, 2024",
+    "cover": "/assets/images/travel-12.jpg"
+  },
+  {
+    "id": 7,
+    "title": "The Ultimate Guide to Backpacking Through South America",
+    "category": "travel",
+    "subCategory": ["adventure", "budget travel", "backpacking"],
+    "description": "Discover the ultimate backpacking routes through South America, including budget tips, must-see destinations, and the best hostels to stay at along the way.",
+    "authorName": "Jon.In",
+    "authorAvatar": "/assets/images/author.jpg",
+    "createdAt": "June 30, 2024",
+    "cover": "/assets/images/travel-8.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Luxury Travel on a Budget: How to Find Great Deals",
+    "category": "travel",
+    "subCategory": ["luxury", "budget travel", "travel tips"],
+    "description": "Want to experience luxury travel without breaking the bank? Learn how to find great deals on five-star accommodations, first-class flights, and upscale experiences.",
+    "authorName": "Jon.In",
+    "authorAvatar": "/assets/images/author.jpg",
+    "createdAt": "July 10, 2024",
+    "cover": "/assets/images/travel-14.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Cultural Festivals Around the World You Must Experience",
+    "category": "travel",
+    "subCategory": ["culture", "events", "inspiration"],
+    "description": "Immerse yourself in the vibrant energy of the world's most famous cultural festivals. From Carnival in Brazil to Diwali in India, these events are not to be missed.",
+    "authorName": "Jon.In",
+    "authorAvatar": "/assets/images/author.jpg",
+    "createdAt": "September 15, 2024",
+    "cover": "/assets/images/travel-5.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Digital Nomad Life: Best Cities for Remote Work",
+    "category": "travel",
+    "subCategory": ["digital nomad", "remote work", "urban life"],
+    "description": "Explore the top cities around the world that are perfect for digital nomads. Learn about the cost of living, coworking spaces, and the best spots to network with other remote workers.",
+    "authorName": "Jon.In",
+    "authorAvatar": "/assets/images/author.jpg",
+    "createdAt": "October 25, 2024",
+    "cover": "/assets/images/travel-15.jpg"
+  },
+  {
+    "id": 11,
+    "title": "The Best Off-The-Beaten-Path National Parks in the U.S.",
+    "category": "travel",
+    "subCategory": ["nature", "adventure", "national parks"],
+    "description": "Skip the crowds and explore some of the lesser-known national parks in the U.S. These hidden gems offer breathtaking landscapes and unique experiences far from the typical tourist routes.",
+    "authorName": "Jon.In",
+    "authorAvatar": "/assets/images/author.jpg",
+    "createdAt": "September 20, 2024",
+    "cover": "/assets/images/travel-16.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Traveling with Pets: Tips for Stress-Free Adventures",
+    "category": "travel",
+    "subCategory": ["pet-friendly", "travel tips", "advice"],
+    "description": "Traveling with your furry friend can be a breeze with the right preparation. Discover essential tips and pet-friendly destinations to ensure a stress-free and enjoyable trip for both you and your pet.",
+    "authorName": "Jon.In",
+    "authorAvatar": "/assets/images/author.jpg",
+    "createdAt": "August 10, 2024",
+    "cover": "/assets/images/travel-17.jpg"
+  },
+	{
+        "id": 1,
+        "title": "A Culinary Journey Through Italy: From Pasta to Gelato",
+        "category": "food",
+        "subCategory": ["cuisine", "culture", "travel"],
+        "description": "Explore the rich culinary traditions of Italy, from the rustic kitchens of Tuscany to the bustling streets of Rome. Discover the secrets behind Italy’s most beloved dishes and indulge in the flavors that define the country’s cuisine.",
+        "authorName": "Maria Rossi",
+        "authorAvatar": "/assets/images/author.jpg",
+        "createdAt": "September 1, 2024",
+        "cover": "/assets/images/food-1.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Street Food Wonders: The Best Eats in Bangkok’s Night Markets",
+        "category": "food",
+        "subCategory": ["street food", "travel", "adventure"],
+        "description": "Join us on a mouth-watering journey through Bangkok’s vibrant night markets, where street food reigns supreme. Discover the must-try dishes and hidden gems that make these markets a foodie’s paradise.",
+        "authorName": "Somchai Pichai",
+        "authorAvatar": "/assets/images/author.jpg",
+        "createdAt": "August 10, 2024",
+        "cover": "/assets/images/food-2.jpg"
+    },
+    {
+        "id": 3,
+        "title": "The Secrets of French Pastries: A Guide to Patisseries in Paris",
+        "category": "food",
+        "subCategory": ["desserts", "baking", "travel"],
+        "description": "Discover the art of French patisserie with a guide to the best bakeries in Paris. From croissants to macarons, explore the world of French desserts and the master bakers behind them.",
+        "authorName": "Claire Dupont",
+        "authorAvatar": "/assets/images/author.jpg",
+        "createdAt": "July 22, 2024",
+        "cover": "/assets/images/food-3.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Exploring the Spices of India: A Flavorful Adventure",
+        "category": "food",
+        "subCategory": ["spices", "culture", "travel"],
+        "description": "Embark on a flavorful journey through India, exploring the rich and diverse spices that define its cuisine. Learn about the cultural significance of spices and how they are used in traditional Indian cooking.",
+        "authorName": "Anjali Patel",
+        "authorAvatar": "/assets/images/author.jpg",
+        "createdAt": "August 5, 2024",
+        "cover": "/assets/images/food-4.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Savoring the Flavors of Mexico: A Guide to Authentic Tacos",
+        "category": "food",
+        "subCategory": ["street food", "culture", "cuisine"],
+        "description": "Dive into the vibrant world of Mexican tacos, exploring their origins, variations, and the best places to find authentic flavors. From street vendors to taquerias, discover why tacos are the heart of Mexican cuisine.",
+        "authorName": "Carlos Ramirez",
+        "authorAvatar": "/assets/images/author.jpg",
+        "createdAt": "August 18, 2024",
+        "cover": "/assets/images/food-5.jpg"
+    },
+	{
+        "id": 6,
+        "title": "Top 10 Luxury Hotels in the Maldives for an Unforgettable Stay",
+        "category": "hotel",
+        "subCategory": ["luxury", "travel", "relaxation"],
+        "description": "Discover the top luxury hotels in the Maldives that offer unparalleled comfort, exquisite dining, and breathtaking views. Whether you’re looking for a romantic getaway or a family vacation, these hotels promise an unforgettable experience.",
+        "authorName": "Sophia Lee",
+        "authorAvatar": "/assets/images/author.jpg",
+        "createdAt": "August 25, 2024",
+        "cover": "/assets/images/hotel-1.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Historic Hotels in Europe: Where to Stay for a Timeless Experience",
+        "category": "hotel",
+        "subCategory": ["history", "luxury", "travel"],
+        "description": "Explore Europe’s most historic hotels, where centuries-old architecture meets modern luxury. Perfect for history buffs and luxury travelers alike, these hotels offer a unique glimpse into Europe’s rich past.",
+        "authorName": "Elena Petrova",
+        "authorAvatar": "/assets/images/author.jpg",
+        "createdAt": "July 20, 2024",
+        "cover": "/assets/images/hotel-2.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Eco-Friendly Retreats: The Best Sustainable Hotels Around the World",
+        "category": "hotel",
+        "subCategory": ["sustainability", "travel", "luxury"],
+        "description": "Find peace of mind at the world’s best eco-friendly hotels that combine luxury with sustainability. Learn how these hotels are leading the way in green practices while providing an unforgettable guest experience.",
+        "authorName": "Liam Turner",
+        "authorAvatar": "/assets/images/author.jpg",
+        "createdAt": "September 2, 2024",
+        "cover": "/assets/images/hotel-3.jpg"
+    },
+    {
+        "id": 9,
+        "title": "Family-Friendly Resorts: The Best Places to Stay with Kids",
+        "category": "hotel",
+        "subCategory": ["family", "travel", "leisure"],
+        "description": "Planning a family vacation? Discover the best family-friendly resorts that cater to both kids and adults, offering a perfect blend of relaxation and fun for everyone.",
+        "authorName": "Jessica Green",
+        "authorAvatar": "/assets/images/author.jpg",
+        "createdAt": "August 15, 2024",
+        "cover": "/assets/images/hotel-4.jpg"
+    },
+    {
+        "id": 10,
+        "title": "Boutique Hotels with a Twist: Unique Stays Around the World",
+        "category": "hotel",
+        "subCategory": ["unique", "luxury", "travel"],
+        "description": "Stay in style at these boutique hotels that offer something truly different. From art-themed rooms to historic settings, these hotels provide an experience that goes beyond just a place to sleep.",
+        "authorName": "Oliver Davis",
+        "authorAvatar": "/assets/images/author.jpg",
+        "createdAt": "July 28, 2024",
+        "cover": "/assets/images/hotel-5.jpg"
+    },
+	{
+        "id": 11,
+        "title": "The Art of Tea: A Cultural Exploration of Japan’s Tea Ceremonies",
+        "category": "culture",
+        "subCategory": ["tradition", "art", "history"],
+        "description": "Delve into the rich history and cultural significance of Japan’s tea ceremonies. Learn about the intricate rituals, the art of tea-making, and how these ceremonies reflect the deep-rooted traditions of Japanese culture.",
+        "authorName": "Kenji Tanaka",
+        "authorAvatar": "/assets/images/author.jpg",
+        "createdAt": "July 30, 2024",
+        "cover": "/assets/images/culture-1.jpg"
+    },
+    {
+        "id": 12,
+        "title": "Carnival Around the World: The Most Colorful Festivals You Must See",
+        "category": "culture",
+        "subCategory": ["festivals", "tradition", "travel"],
+        "description": "Experience the vibrancy of carnival festivals around the world, from Rio de Janeiro to Venice. Learn about the traditions, costumes, and celebrations that make these festivals a must-see cultural phenomenon.",
+        "authorName": "Ana Garcia",
+        "authorAvatar": "/assets/images/author.jpg",
+        "createdAt": "August 12, 2024",
+        "cover": "/assets/images/culture-2.jpg"
+    },
+    {
+        "id": 13,
+        "title": "Ancient Traditions in Modern Times: The Survival of Indigenous Cultures",
+        "category": "culture",
+        "subCategory": ["tradition", "history", "society"],
+        "description": "Explore how indigenous cultures around the world are preserving their ancient traditions in the face of modern challenges. Discover the resilience of these communities and the importance of their cultural heritage.",
+        "authorName": "Maya Singh",
+        "authorAvatar": "/assets/images/author.jpg",
+        "createdAt": "September 5, 2024",
+        "cover": "/assets/images/culture-3.jpg"
+    },
+    {
+        "id": 14,
+        "title": "The Influence of African Art on Contemporary Culture",
+        "category": "culture",
+        "subCategory": ["art", "history", "society"],
+        "description": "Learn how African art has influenced contemporary culture across the globe. From traditional masks to modern installations, discover the impact of African aesthetics on today’s art world.",
+        "authorName": "Kwame Badu",
+        "authorAvatar": "/assets/images/author.jpg",
+        "createdAt": "July 25, 2024",
+        "cover": "/assets/images/culture-4.jpg"
+    },
+    {
+        "id": 15,
+        "title": "Exploring the Cultural Heritage of the Silk Road",
+        "category": "culture",
+        "subCategory": ["history", "travel", "tradition"],
+        "description": "Travel along the ancient Silk Road and explore the rich cultural heritage it has left behind. From architecture to cuisine, discover the lasting impact of this historic trade route on the cultures of Asia and Europe.",
+        "authorName": "Li Wei",
+        "authorAvatar": "/assets/images/author.jpg",
+        "createdAt": "August 22, 2024",
+        "cover": "/assets/images/culture-5.jpg"
+    }
+
+  ];
+  

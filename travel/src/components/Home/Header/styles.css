@@ -1,0 +1,50 @@
+/* src/components/Home/styles.css */
+.home-header {
+  padding: 20px;
+  text-align: center;
+  background-color: #6c757d; /* Mid-gray background color */
+  position: relative;
+  color: #fff; /* Change text color to white for contrast */
+}
+
+.header-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.title-section {
+  flex: 1;
+}
+
+.title-section h2 {
+  margin: 0;
+  font-size: 24px;
+}
+
+.title-section h1 {
+  margin: 10px 0;
+  font-size: 36px;
+  font-weight: bold;
+}
+
+.title-section p {
+  margin: 0;
+  font-size: 18px;
+}
+
+.auth-links {
+  margin-right: 20px;
+}
+
+.auth-links a {
+  margin-left: 15px;
+  text-decoration: none;
+  color: #fff; /* Change link color to white */
+  font-size: 16px;
+}
+
+.auth-links a:hover {
+  text-decoration: underline;
+}
+  

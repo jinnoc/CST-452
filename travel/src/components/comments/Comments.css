@@ -1,0 +1,54 @@
+.comments-section {
+  margin-top: 2rem;
+}
+
+.comments-section h2 {
+  margin-bottom: 1rem;
+}
+
+.comments-section form {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 1.5rem;
+}
+
+.comments-section textarea {
+  resize: none;
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  margin-bottom: 10px;
+}
+
+.comments-section button {
+  align-self: flex-end;
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  background-color: #007bff;
+  color: #fff;
+  cursor: pointer;
+}
+
+.comments-section button:hover {
+  background-color: #0056b3;
+}
+
+.comments-list {
+  margin-top: 1.5rem;
+}
+
+.comment {
+  background-color: #f9f9f9;
+  padding: 10px;
+  margin-bottom: 1rem;
+  border-radius: 5px;
+}
+
+.comment small {
+  display: block;
+  margin-top: 0.5rem;
+  color: #666;
+}
